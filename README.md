@@ -12,7 +12,7 @@
 
 ### Full-Stack Web Engineer · Generative AI & MCP · IoT Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franck_Valmont-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/infranck-valmont](https://www.linkedin.com/in/franck-valmont/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franck_Valmont-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franck-valmont/)
 [![Email](https://img.shields.io/badge/Email-valmont.franck@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valmont.franck@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Lille,_France-Open_to_work-22c55e?style=for-the-badge)](#)
 
