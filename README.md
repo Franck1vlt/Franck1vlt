@@ -53,7 +53,6 @@ franck = {
 | 🤖 **[chatbot-ia](https://github.com/Franck1vlt/chatbot-ia)** | Python · MCP · LangChain | Specialized chatbot using the MCP protocol — built in a banking context at BPCE-SI |
 | 🧬 **[rag-genai-app](https://github.com/Franck1vlt/rag-genai-app)** | Python · LangChain · Langfuse | RAG application with LLM observability via Langfuse |
 | 📡 **[iot-data-pipeline](https://github.com/Franck1vlt/iot-data-pipeline)** | TypeScript · MQTT | IoT sensor simulation → real-time dashboard |
-| 🎟️ **[TicketFlow](https://github.com/Franck1vlt/TicketFlow)** | FastAPI · SQLModel · Pydantic | REST API for enterprise IT ticket management |
 
 ---
 
