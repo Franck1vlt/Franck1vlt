@@ -124,16 +124,6 @@ franck = {
 </div>
 
 ---
-
-## 💼 Key Experience
- 
-**🏦 BPCE-SI** — End-of-studies internship *(April – Sept. 2025)*  
-> Specialized business chatbots via the **MCP protocol** · Containerized deployment with Podman/Docker · AI adoption support for business teams
- 
-**📡 IO Connect Solutions** — IoT & Data internship *(May – Jul. 2024)*  
-> IoT application development · Predictive AI & Power BI dashboards · Asterisk/SIP infrastructure · MQTT, LoRaWAN, Sigfox protocols
- 
----
  
 <div align="center">
  
