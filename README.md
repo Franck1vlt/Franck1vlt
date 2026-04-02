@@ -50,7 +50,7 @@ franck = {
 | Project | Stack | Description |
 |---------|-------|-------------|
 | 🏆 **[Coupe-Universite-UCL-2026](https://github.com/Franck1vlt/Coupe-Universite-UCL-2026)** | TypeScript · FastAPI · SQLite | University tournament management platform (SSE live scoring, bracket automation) |
-| 🤖 **[chatbot-ia](https://github.com/Franck1vlt/chatbot-ia)** | Python · MCP · LangChain | Specialized chatbot using the MCP protocol — built in a banking context at BPCE-SI |
+| 🤖 **[chatbot-ia](https://github.com/Franck1vlt/chatbot-ia)** | Python · RAG · LangChain · Langfuse | Specialized chatbot using the Langchain and Langfuse |
 | 🧬 **[rag-genai-app](https://github.com/Franck1vlt/rag-genai-app)** | Python · LangChain · Langfuse | RAG application with LLM observability via Langfuse |
 | 📡 **[iot-data-pipeline](https://github.com/Franck1vlt/iot-data-pipeline)** | TypeScript · MQTT | IoT sensor simulation → real-time dashboard |
 | 🛒 **[shop-django-rest-framework](https://github.com/Franck1vlt/shop-django-rest-framework)** | Python · Django | E-commerce REST API built with Django REST Framework |
