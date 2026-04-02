@@ -10,7 +10,7 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝
 ```
 
-### Full-Stack Web Engineer · Generative AI & MCP · IoT Specialist
+### Full-Stack Web Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Franck_Valmont-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franck-valmont/)
 [![Email](https://img.shields.io/badge/Email-valmont.franck@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valmont.franck@gmail.com)
@@ -22,22 +22,27 @@
 
 ## 🧠 About
  
-Graduate engineer from **JUNIA ISEN Lille**, I'm a **Full-Stack web developer focused on Generative AI**, with a specialization in **embedded IoT**.
+Graduate engineer from **JUNIA ISEN Lille**, I'm a **Full-Stack web developer**.
  
-Two worlds I connect naturally: I build robust web interfaces and APIs on one side, and speak MQTT, LoRaWAN and Raspberry Pi on the other. In between, I integrate Generative AI — chatbots, agents, RAG — to create intelligent end-to-end systems.
- 
-During my internship at **BPCE-SI**, I designed and deployed specialized chatbots using the **MCP protocol** — an emerging technology that very few junior developers master today.
+I design and develop:
+- full-stack web applications
+- scalable REST APIs and backend systems
+- modern frontend interfaces
+- containerized and deployable applications
+   
+During my internship at **BPCE-SI**, I contributed to the design and deployment of internal chatbot solutions using the **MCP protocol**.
  
 I build things that work. Fast. And that adapt.
  
 ```python
 franck = {
     "title":     "Full-Stack Web Engineer · Generative AI · IoT",
-    "web":       ["React", "Next.js", "Vue.js", "FastAPI", "Node.js", "TailwindCSS", "Shadcn UI"],
+    "backend":   ["FastAPI", "Django REST Framework", "Spring Boot"],
+    "frontend":  ["React", "Next.js", "Vue.js", "Node.js", "TailwindCSS", "Shadcn UI"],
     "languages": ["Python", "TypeScript", "JavaScript", "C/C++", "Java"],
-    "infra":     ["Docker", "Podman", "Portainer", "GitHub Actions"],
-    "databases": ["PostgreSQL", "SQLite", "MongoDB", "SQLAlchemy", "SQLModel"],
-    "GenAI":     ["LLM", "MCP Protocol", "Langchain", "Langfuse", "RAG", "AI Agents", "Prompt Engineering"],
+    "infra":     ["Docker", "Podman", "GitHub Actions"],
+    "databases": ["PostgreSQL", "SQLite", "MongoDB"],
+    "GenAI":     ["LLM", "MCP Protocol", "Langchain", "RAG"],
     "IoT":       ["MQTT", "LoRaWAN", "Sigfox", "Raspberry Pi", "Arduino", "Node-RED"],
     "currently": "Open to work 🟢"
 }
@@ -131,7 +136,7 @@ franck = {
  
 **Open to work · Available immediately · Lille & Remote**
  
-*"From IoT sensor to web interface, through AI — I bridge all three worlds."*
+*"Full-Stack engineering focused on scalable and production-ready systems."*
  
 ![Profile views](https://komarev.com/ghpvc/?username=Franck1vlt&color=6366f1&style=flat-square)
  
