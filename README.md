@@ -38,7 +38,7 @@ I build things that work. Fast. And that adapt.
 franck = {
     "title":     "Full-Stack Web Engineer · Generative AI · IoT",
     "backend":   ["FastAPI", "Django REST Framework", "Spring Boot"],
-    "frontend":  ["React", "Next.js", "Vue.js", "Node.js", "TailwindCSS", "Shadcn UI"],
+    "frontend":  ["React", "Next.js", "Vue.js", "Node.js", "TailwindCSS", "Shadcn UI", "Angular"],
     "languages": ["Python", "TypeScript", "JavaScript", "C/C++", "Java"],
     "infra":     ["Docker", "Podman", "GitHub Actions"],
     "databases": ["PostgreSQL", "SQLite", "MongoDB"],
@@ -59,6 +59,7 @@ franck = {
 | 🧬 **[rag-genai-app](https://github.com/Franck1vlt/rag-genai-app)** | Python · LangChain · Langfuse | RAG application with LLM observability via Langfuse |
 | 📡 **[iot-data-pipeline](https://github.com/Franck1vlt/iot-data-pipeline)** | TypeScript · MQTT | IoT sensor simulation → real-time dashboard |
 | 🛒 **[shop-django-rest-framework](https://github.com/Franck1vlt/shop-django-rest-framework)** | Python · Django | E-commerce REST API built with Django REST Framework |
+| 🚗 **[parkyn](https://github.com/Franck1vlt/Parkyn)** | Spring Boot · Angular · PostgreSQL · Docker · Nginx | Gestion de flotte de véhicules et de réservations |
 
 ---
 
@@ -77,8 +78,10 @@ franck = {
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![ShadcnUI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
+
 
 **Backend**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
